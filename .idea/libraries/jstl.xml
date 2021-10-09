@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="jstl">
+    <CLASSES>
+      <root url="jar://F:/BaiduYunDownload/tools/mavenRepository/jstl/jstl.jar!/" />
+      <root url="jar://F:/BaiduYunDownload/tools/mavenRepository/jstl/standard.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
